@@ -1,7 +1,7 @@
 const Data = [
   {
     id: 1,
-    place: "Ayodhya, Utter Pradesh",
+    place: "Ayodhya, Uttar Pradesh",
     image: "Images/img1.jpeg",
     description:
       "Ayodhya, Uttar Pradesh, is renowned for its historical and religious importance in Indian culture",
@@ -26,7 +26,7 @@ const Data = [
   },
   {
     id: 4,
-    place: "Prem Mandir, Utter Pradesh",
+    place: "Prem Mandir, Uttar Pradesh",
     image: "Images/img19.jpg",
     description:
       "Prem Mandir in Uttar Pradesh is a divine temple known for its spiritual aura and grandeur.",
