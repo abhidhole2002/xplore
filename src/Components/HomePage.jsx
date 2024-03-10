@@ -34,9 +34,10 @@ const HomePage = () => {
               placeholder="Country Name"
               className="text-md py-2 px-10 w-2/5 rounded-sm text-black"
             />
-            <button className=" -ml-24 text-white bg-black py-1 px-4  rounded-md ">
+            <button className=" -ml-24 text-white  py-1 px-4  rounded-md ">
               Search
             </button>
+            
           </div>
         </div>
       </div>
